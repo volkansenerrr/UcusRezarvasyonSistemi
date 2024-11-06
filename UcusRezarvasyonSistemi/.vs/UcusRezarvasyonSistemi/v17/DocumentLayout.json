@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\c# Udemy Projeler\\UcusRezarvasyonSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38A8A1-73EE-4987-84E9-769511B3DBC2}|UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi.csproj|c:\\users\\i-life\\onedrive\\desktop\\dosyalar\\c# udemy projeler\\ucusrezarvasyonsistemi\\ucusrezarvasyonsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B38A8A1-73EE-4987-84E9-769511B3DBC2}|UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi.csproj|solutionrelative:ucusrezarvasyonsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38A8A1-73EE-4987-84E9-769511B3DBC2}|UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi.csproj|C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\c# Udemy Projeler\\UcusRezarvasyonSistemi\\ucusrezarvasyonsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38A8A1-73EE-4987-84E9-769511B3DBC2}|UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi.csproj|solutionrelative:ucusrezarvasyonsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38A8A1-73EE-4987-84E9-769511B3DBC2}|UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi.csproj|C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\c# Udemy Projeler\\UcusRezarvasyonSistemi\\ucusrezarvasyonsistemi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38A8A1-73EE-4987-84E9-769511B3DBC2}|UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi.csproj|solutionrelative:ucusrezarvasyonsistemi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\c# Udemy Projeler\\UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "UcusRezarvasyonSistemi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\c# Udemy Projeler\\UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi\\Form1.Designer.cs",
+              "RelativeToolTip": "UcusRezarvasyonSistemi\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:00:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\c# Udemy Projeler\\UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "UcusRezarvasyonSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\c# Udemy Projeler\\UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi\\Form1.cs",
+              "RelativeToolTip": "UcusRezarvasyonSistemi\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:49:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\c# Udemy Projeler\\UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "UcusRezarvasyonSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\c# Udemy Projeler\\UcusRezarvasyonSistemi\\UcusRezarvasyonSistemi\\Form1.cs [Design]",
+              "RelativeToolTip": "UcusRezarvasyonSistemi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:19:16.371Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

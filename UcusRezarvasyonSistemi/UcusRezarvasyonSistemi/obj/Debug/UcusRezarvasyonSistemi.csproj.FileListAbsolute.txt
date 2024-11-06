@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\bin\Debug\UcusRezarvasyonSistemi.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\bin\Debug\UcusRezarvasyonSistemi.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\bin\Debug\UcusRezarvasyonSistemi.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\obj\Debug\UcusRezarvasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\obj\Debug\UcusRezarvasyonSistemi.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\obj\Debug\UcusRezarvasyonSistemi.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\obj\Debug\UcusRezarvasyonSistemi.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\obj\Debug\UcusRezarvasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\obj\Debug\UcusRezarvasyonSistemi.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\Udemy Projeler\UcusRezarvasyonSistemi\UcusRezarvasyonSistemi\obj\Debug\UcusRezarvasyonSistemi.pdb
